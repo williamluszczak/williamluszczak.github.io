@@ -24,10 +24,10 @@ repository               : "academicpages/williamluszczak.github.io"
 author:
   # Biographic information
   avatar           : "shitty_blazar.png"
-  name             : "Your Sidebar Name"
+  name             : "Will Luszczak"
   pronouns         : # example: "she/her"  
   bio              : "Astroparticle Physics and Weather"
-  location         : "Earth"
+  location         : "Columbus, OH"
   employer         : "Ohio State University"
   uri              : # URL
   email            : "wluszczak@icecube.wisc.edu" 
