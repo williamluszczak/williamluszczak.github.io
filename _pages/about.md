@@ -21,6 +21,5 @@ I am a somewhat poor photographer, but some of the other people who were on this
 ![image info](TornadoDeploymentPics/IMG_2079.JPG)
 ![image info](TornadoDeploymentPics/IMG_2110.JPG)
 ![image info](TornadoDeploymentPics/IMG_20250516_211009.jpg)
-![image info](TornadoDeploymentPics/20250516_155549(1)(1).jpg
-)
+![image info](TornadoDeploymentPics/20250516_155549(1)(1).jpg)
 ![image info](TornadoDeploymentPics/20250514_195311(1).jpg)
