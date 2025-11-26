@@ -13,8 +13,8 @@ Hi! I'm Will. I am currently a postdoctoral fellow at the Center for Cosmology a
 
 [Resume](resume.pdf)
 
-
-== Pictures from Muon/Tornado Project Deployment ==
+Pictures from Tornado Deployment
+======
 I am a somewhat poor photographer, but some of the other people who were on this trip got far better pictures. If you'd like to see/learn more, feel free to contact me!
 
 
